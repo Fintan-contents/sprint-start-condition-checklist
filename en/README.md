@@ -1,4 +1,4 @@
-# Checklist of sprint entry conditions
+# Sprint start condition checklist
 
 A checklist of points to be decided before starting a sprint.  
 Using this before the first sprint prevents project delays. 
